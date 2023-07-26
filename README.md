@@ -22,8 +22,6 @@ sudo pacman -S python-psutil
 
 # Debian-based distros (e.g., Ubuntu, Linux Mint)
 
-### Install Python and pip (python3 is recommended)
-
 sudo apt-get update
 
 sudo apt-get install python3 python3-pip
