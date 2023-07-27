@@ -1,6 +1,13 @@
 # battery-date-time-app
 
+
 # READ FIRST:
+- Windows:
+the movement is buggy as hell, but:
+click anywhere on the font to move the window.
+  
+- LINUX:
+## KDE:
 - right click on the app on the taskbar
 - more
 - keep above others
