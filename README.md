@@ -11,7 +11,8 @@ click anywhere on the font to move the window.
 - right click on the app on the taskbar
 - more
 - keep above others
-
+## Cinnamon:
+- for whatever reason window is enlarged
 #### More info for date, time format:
 - https://devhints.io/datetime
 
