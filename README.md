@@ -5,7 +5,7 @@
 
 
 # READ FIRST:
-- Windows:
+## Windows:
 the movement is buggy as hell, but:
 click anywhere on the FONT to move the window.
   
@@ -20,9 +20,6 @@ click anywhere on the FONT to move the window.
 - Works perfectly!
 #### More info for date, time format:
 - https://devhints.io/datetime
-
-
-#### Originally tested on Manjaro 23 KDE Plasma 5.27.6
 
 ### How to run?
 
