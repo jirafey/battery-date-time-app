@@ -9,15 +9,18 @@
 the movement is buggy as hell, but:
 click anywhere on the FONT to move the window.
   
-- LINUX:
-## KDE:
+## LINUX:
+### KDE:
 - right click on the app on the taskbar
 - more
 - keep above others
-## Cinnamon:
+### Cinnamon:
 - *use **ALT** + **hold right click** to move*
+### Xfce:
+- Works perfectly!
 #### More info for date, time format:
 - https://devhints.io/datetime
+
 
 #### Originally tested on Manjaro 23 KDE Plasma 5.27.6
 
