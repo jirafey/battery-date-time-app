@@ -1,5 +1,8 @@
 # battery-date-time-app
 
+![image](https://github.com/Jirafey/date-time-battery-app/assets/97115044/9afbaa09-f8ff-42e1-ac9e-e248ee6759dd)
+
+
 
 # READ FIRST:
 - Windows:
