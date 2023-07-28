@@ -23,12 +23,14 @@
 
 ### How to run?
 
+# Windows:
 **Install python** 
 - if you haven't already: https://www.python.org/downloads/
 
 **Install pip**
 - curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 - python get-pip.py
+
 
 **Installing dependencies: PyQt5, psutil**
 - pip install PyQt5
@@ -48,7 +50,7 @@
 - sudo apt-get update
 - sudo apt-get install python3 python3-pip
 - sudo apt-get install python3-pyqt5
-- sudo apt-get install python3-psutil
+- sudo apt-get install python3-psutil 
 
 # Fedora-based distros (e.g., Fedora, RHEL)
 
