@@ -6,8 +6,8 @@
 
 # READ FIRST:
 ## Windows:
-the movement is buggy as hell, but:
-click anywhere on the FONT to move the window.
+- the movement is buggy as hell, but:
+- click anywhere on the FONT to move the window.
   
 ## LINUX:
 ### KDE:
