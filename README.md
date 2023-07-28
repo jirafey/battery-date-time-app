@@ -22,6 +22,15 @@
 - https://devhints.io/datetime
 
 ### How to run?
+**Install python** if you haven't already: https://www.python.org/downloads/
+**Install pip**
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+**Installing dependencies: PyQt5, psutil**:
+pip install PyQt5
+pip install psutil
+**Run the app**
+python3 <path_to_file>/bdt.py
 
 # Arch-based distros (e.g., Manjaro, Arch Linux)
 
@@ -49,4 +58,4 @@ sudo dnf install python3-qt5
 
 sudo dnf install python3-psutil
 
-python3 <path_to_file>/bdt.py
+
