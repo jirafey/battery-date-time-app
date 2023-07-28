@@ -4,7 +4,7 @@
 # READ FIRST:
 - Windows:
 the movement is buggy as hell, but:
-click anywhere on the font to move the window.
+click anywhere on the FONT to move the window.
   
 - LINUX:
 ## KDE:
@@ -12,7 +12,7 @@ click anywhere on the font to move the window.
 - more
 - keep above others
 ## Cinnamon:
-- for whatever reason window is enlarged
+- *use **ALT** + **hold right click** to move*
 #### More info for date, time format:
 - https://devhints.io/datetime
 
